@@ -151,7 +151,7 @@ header nav ul li a {
 .My-Work-Item-Large {
   flex: 0 100%;
   height: 500px;
-  background-image: url(../images/Run_buddy-website.png);
+  background-image: url(../images/The-breakfast-app.png);
   background-size: cover;
   margin: 40px auto 70px auto;
   display: flex;
@@ -176,7 +176,7 @@ header nav ul li a {
    background-size: cover;
  }
  #item4 {
-   background-image: url(../images/yahoo-logo.png);
+   background-image: url(../images/Run_buddy-website.png);
    background-size: cover;
  }
 
